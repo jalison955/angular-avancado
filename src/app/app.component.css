@@ -1,0 +1,8 @@
+.principal {
+  display: flex;
+  flex-direction: row;
+}
+
+.menu {
+  width: 300px;
+}
