@@ -1,1 +1,7 @@
-/* You can add global styles to this file, and also import other style files */
+.breadcrumb-divider {
+  --bs-breadcrumb-divider: ">";
+}
+
+.row-primary {
+  --bs-table-bg: #0d6efd !important;
+} /* You can add global styles to this file, and also import other style files */
