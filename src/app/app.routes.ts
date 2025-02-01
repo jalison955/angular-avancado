@@ -3,7 +3,7 @@ import { CategoriesComponent } from './pages/categories/categories.component';
 import { CategoryComponent } from './pages/category/category.component';
 
 export const routes: Routes = [
-  { path: 'categories', component: CategoriesComponent },
-  { path: 'category/new', component: CategoryComponent },
-  { path: 'category/:id/edit', component: CategoryComponent },
+  { path: 'categorias', component: CategoriesComponent },
+  { path: 'categoria/novo', component: CategoryComponent },
+  { path: 'categoria/:id/editar', component: CategoryComponent },
 ];
